@@ -6,7 +6,7 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    background-image: url('/images/cover/cover-trains.jpg');
+    background-image: url('../../../images/cover/cover-trains.jpg');
     background-size: contain;
     background-repeat: no-repeat;
     z-index: 1;
