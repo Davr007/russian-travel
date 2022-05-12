@@ -10,14 +10,22 @@
     margin-bottom: 0;
 }
 
-@media screen and (max-width:768px){
+@media screen and (max-width: 870px){
     .place__paragraph {
         font-size: 16px;
     }
 }
 
+@media screen and (max-width: 680px){
+    .place__paragraph {
+        font-size: 12px;
+    }
+}
+
 @media screen and (max-width: 585px){
-    .place__paragraphs {
+    .place__paragraph {
         width: calc(100% - 2*16px);
+        font-size: 16px;
+        margin: 0 auto;
     }
 }

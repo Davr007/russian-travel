@@ -7,12 +7,12 @@
     justify-content: center;
     text-align: center;
     background-image: url('../../../images/cover/cover-trains.jpg');
-    background-size: contain;
+    background-size: cover; /*игрался со значениями и contain оствил... эххх*/
     background-repeat: no-repeat;
     z-index: 1;
     height: 100%;
     width: 100%;
-    position: relative;
+    position: relative; 
     aspect-ratio: 1.6;
 }
 
