@@ -17,6 +17,10 @@
 - Flexbox-вёрстка
 - Медиазапросы
 
-## Ссылка на сайт:
+## Ссылка на репозиторий: 
 
 https://github.com/Davr007/russian-travel.git
+
+## Ссылка на сайт:
+
+https://davr007.github.io/russian-travel/
